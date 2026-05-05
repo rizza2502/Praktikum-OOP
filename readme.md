@@ -99,7 +99,7 @@ print(hero1.hp)  # Output: 500
 
 <div align="center">
 
-![Output Latihan 1](dokumentasi/1.png)
+![Output Latihan 1](output1.png)
 
 *Hasil eksekusi `1.py` — Modifikasi atribut publik dari luar class*
 
@@ -134,7 +134,7 @@ Dengan menerima **objek utuh**, method `serang()` mendapat akses penuh ke seluru
 
 <div align="center">
 
-![Output Latihan 2](dokumentasi/2.png)
+![Output Latihan 2](output2.png)
 
 *Hasil eksekusi `2.py` — Dua objek Hero saling berinteraksi*
 
@@ -183,7 +183,7 @@ Mage("Eudora", 80, 30, 100)
 
 <div align="center">
 
-![Output Latihan 3](dokumentasi/3.png)
+![Output Latihan 3](output3.png)
 
 *Hasil eksekusi `3.py` — Eudora (Mage) mewarisi kemampuan Hero dan menggunakan Fireball*
 
@@ -226,7 +226,7 @@ hero.hp → 0
 
 <div align="center">
 
-![Output Latihan 4](dokumentasi/4.png)
+![Output Latihan 4](output4.png)
 
 *Hasil eksekusi `4.py` — Demonstrasi Name Mangling dan validasi Setter*
 
@@ -272,7 +272,7 @@ GameUnit (Abstract — ❌ tidak bisa diinstansiasi)
 
 <div align="center">
 
-![Output Latihan 5](dokumentasi/5.png)
+![Output Latihan 5](output5.png)
 
 *Hasil eksekusi `5.py` — Demonstrasi abstract class dan penegakan kontrak method*
 
@@ -316,7 +316,7 @@ for pahlawan in pasukan:
 
 <div align="center">
 
-![Output Latihan 6](dokumentasi/6.png)
+![Output Latihan 6](output6.png)
 
 *Hasil eksekusi `6.py` — Satu perintah loop, respons berbeda di tiap objek*
 
@@ -411,7 +411,7 @@ TOTAL TAGIHAN: Rp 81.750.000
 
 <div align="center">
 
-![Output Proyek TechMaster](dokumentasi/7.png)
+![Output Proyek TechMaster](output7.png)
 
 *Hasil eksekusi `7.py` — Sistem inventaris TechMaster berjalan sesuai skenario*
 
